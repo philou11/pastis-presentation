@@ -70,7 +70,7 @@
 # Results
 <br>
 <br>
-<span style="font-size: 30px;">[Quarto book](https://cartonumerique.blogspot.com/2020/08/nord-sud-france.html)
+<span style="font-size: 30px;">[Quarto book](https://vdjianbiogeo.github.io/projet_pastis/)
 <br>
 <br>
 <br>
