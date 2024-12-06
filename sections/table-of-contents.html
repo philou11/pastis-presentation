@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -29,10 +29,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="table-of-contents_files/libs/quarto-html/tippy.umd.min.js"></script>
 <script src="table-of-contents_files/libs/quarto-html/anchor.min.js"></script>
 <link href="table-of-contents_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="table-of-contents_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="table-of-contents_files/libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="table-of-contents_files/libs/bootstrap/bootstrap.min.js"></script>
 <link href="table-of-contents_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="table-of-contents_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="table-of-contents_files/libs/bootstrap/bootstrap-8a79a254b8e706d3c925cde0a310d4f0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 
 
 </head>
@@ -41,7 +41,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
 
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
@@ -77,21 +77,20 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="project-aims" class="level1">
 <h1>Project aims</h1>
-<p><br> <br> <br> <br> <br> <span style="font-size: 30px;">1. Where are the four cardinal points located according to climatic data ?</span></p>
-<p><span style="font-size: 30px;">2. Where do the French really place the “south of France” ?</span></p>
-<p><span style="font-size: 30px;">3. Does this perception vary depending on their geographical origin or current place of residence ?</span></p>
-<p><span style="font-size: 30px;">4. Is there a connection between perceived sensitivity to cold and the location of the south as identified by respondents ? <br> <br> <br> <br> <br> <br></span></p>
+<p><br> <br> <br> <br> <br> <span style="font-size: 30px">1. Where are the four cardinal points located according to climatic data ?</span></p>
+<p><span style="font-size: 30px; text-align: left;">2. Where do the French really place the “south of France” ?</span></p>
+<p><span style="font-size: 30px; text-align: left;">3. Does this perception vary depending on their geographical origin or current place of residence ?</span></p>
+<p><span style="font-size: 30px; text-align: left;">4. Is there a connection between perceived sensitivity to cold and the location of the south as identified by respondents ?</span> <br> <br> <br> <br> <br> <br></p>
 </section>
 <section id="materials-and-methods" class="level1">
 <h1>Materials and methods</h1>
-<p><br> <br> <br> <br> <br> <span style="font-size: 30px;">1. Where are the four cardinal points located according to climatic data ?</span></p>
-<p><span style="font-size: 30px;">2. Where do the French really place the “south of France” ?</span></p>
-<p><span style="font-size: 30px;">3. Does this perception vary depending on their geographical origin or current place of residence ?</span></p>
-<p><span style="font-size: 30px;">4. Is there a connection between perceived sensitivity to cold and the location of the south as identified by respondents ? <br> <br> <br> <br> <br> <br></span></p>
+<p><br> <br> <span style="font-size: 30px; text-align: left;">Survey with different parameters :</span> <br> <br> <br> <span style="font-size: 30px; text-align: left;">1. Childhood city and current city of residence.</span></p>
+<p><span style="font-size: 30px; text-align: left;">2. Personal view of the boundaries of the south, north, east, and west on a map.</span></p>
+<p><span style="font-size: 30px; text-align: left;">3. Sensitivity to cold (on a scale from 1 to 5, where 1 means “not sensitive to cold” and 5 means “very sensitive to cold”).</span> <br> <br> <br> <br> <br> <br></p>
 </section>
 <section id="results" class="level1">
 <h1>Results</h1>
-<p><br> <br> <span style="font-size: 30px;">- <a href="https://cartonumerique.blogspot.com/2020/08/nord-sud-france.html">Quarto book</a> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br></span></p>
+<p><br> <br> <span style="font-size: 30px;"><a href="https://vdjianbiogeo.github.io/projet_pastis/">Quarto book</a> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br></span></p>
 </section>
 
 </main>
@@ -178,8 +177,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -290,7 +287,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

@@ -31,22 +31,37 @@
 # Project aims
 <br>
 <br>
-<br>
-<br>
-<br>
-<span style="font-size: 30px; text-align: left;">1. Where are the four cardinal points located according to climatic data ?</span>
 
-<span style="font-size: 30px; text-align: left;">2. Where do the French really place the "south of France" ?</span>
+<br>
 
-<span style="font-size: 30px; text-align: left;">3. Does this perception vary depending on their geographical origin or current place of residence ?</span>
 
-<span style="font-size: 30px; text-align: left;">4. Is there a connection between perceived sensitivity to cold and the location of the south as identified by respondents ?</span>
+<span style="font-size: 30px">1. Where are the four cardinal points located according to climatic data ?</span>
+
+<br>
+
+. . .
+
+<span style="font-size: 30px">2. Where do the French really place the "south of France" ?</span>
+
+<br>
+
+. . .
+
+<span style="font-size: 30px">3. Does this perception vary depending on their geographical origin or current place of residence ?</span>
+
+<br>
+
+. . .
+
+<span style="font-size: 30px">4. Is there a connection between perceived sensitivity to cold and the location of the south as identified by respondents ?</span>
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
+
+
 
 # Materials and methods
 <br>
