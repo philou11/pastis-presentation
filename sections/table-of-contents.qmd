@@ -66,13 +66,26 @@
 # Materials and methods
 <br>
 <br>
+
+<br>
+
 <span style="font-size: 30px; text-align: left;">Survey with different parameters :</span>
+
 <br>
-<br>
-<br>
+
+. . .
+
 <span style="font-size: 30px; text-align: left;">1. Childhood city and current city of residence.</span>
 
+<br>
+
+. . .
+
 <span style="font-size: 30px; text-align: left;">2. Personal view of the boundaries of the south, north, east, and west on a map.</span>
+
+<br>
+
+. . .
 
 <span style="font-size: 30px; text-align: left;">3. Sensitivity to cold (on a scale from 1 to 5, where 1 means "not sensitive to cold" and 5 means "very sensitive to cold").</span>
 <br>
